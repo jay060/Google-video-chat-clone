@@ -9,7 +9,7 @@ A simple google meet clone made using WEBRTC, socket.io and nodejs
 1. First install node in your system
 2. Clone the repository 
 
-    ```git https://github.com/Allan-1/Google-meet-clone.git```
+    ```git https://github.com/jay060/Google-meet-clone.git```
 
 3. Navigate to the directory
     ```cd Google-meet-clone```
